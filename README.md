@@ -11,7 +11,7 @@ Arrow Shaft
 Revolver Casing
 Rifle Casing
 
-<img src="https://github.com/moosemeat817/images/blob/main/CraftAnywhereReduxMenu.png" width="80%">
+<img src="https://github.com/moosemeat817/images/blob/main/ToolsAsMaterials.png" width="80%">
 
 ## Special Thanks
 The Long Dark Modding Server (Discord)
