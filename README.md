@@ -4,12 +4,7 @@ This is a simple mod for The Long Dark by Hinterland Studio, Inc.
 ## Description
 Reassigns some tools to materials.
 
-Hook
-Line
-Arrow Head
-Arrow Shaft
-Revolver Casing
-Rifle Casing
+Hook, Line, Arrow Head, Arrow Shaft, Revolver Casing, and Rifle Casing are included.
 
 <img src="https://github.com/moosemeat817/images/blob/main/ToolsAsMaterials.png" width="80%">
 
